@@ -1,7 +1,7 @@
 ## ISEL - Instituto Superior de Engenharia de Lisboa
 ### Técnicas de Virtualização de Sistemas / System Virtualization Techniques
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/isel-leic-tvs)
-[![pt](https://img.shields.io/badge/lang-pt-green.svg)](https://github.com/isel-leic-tvs/.github/profile/blob/main/README.pt.md)
+[![pt](https://img.shields.io/badge/lang-pt-green.svg)](https://github.com/isel-leic-tvs/.github/blob/main/profile/README.pt.md)
 
 #### Informações institucionais
 * [Informação oficial sobre a unidade curricular](https://www.isel.pt/leic/tecnicas-de-virtualizacao-de-sistemas)
